@@ -1,0 +1,15 @@
+{
+  "name": "layout-project",
+  "version": "1.0.0",
+  "description": "layout project",
+  "main": "\u001b[D\u001b[D\u001b[C",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "lavash",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  }
+}
